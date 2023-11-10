@@ -1,0 +1,19 @@
+{
+    "limit": "11",
+    "prefix": "a",
+    "page-type": "Gateway",
+    "alias": "aps",
+    "site-variant": "desktop",
+    "version": "3",
+    "event": "onkeypress",
+    "wc": "",
+    "lop": "es_ES",
+    "last-prefix": "",
+    "avg-ks-time": "869",
+    "fb": "1",
+    "session-id": "261-1335485-6825011",
+    "request-id": "F2Z2DD647MNKJRH55810",
+    "mid": "A1RKKUPIHCS9HS",
+    "plain-mid": "44551",
+    "client-info": "amazon-search-ui"
+}
